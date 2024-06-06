@@ -1,6 +1,8 @@
 # Communication & Network Course: Final Project
 
 This repository contains our implementation for the course's final project.
+Objective: Implement aspect of QUIC protocol
+Chosen aspect: Multi-stream
 
 ## QUIC Protocol
 
